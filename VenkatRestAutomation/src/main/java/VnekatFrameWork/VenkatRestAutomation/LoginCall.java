@@ -66,6 +66,8 @@ public class LoginCall {
 	 }
 	
 	public static void main(String[] args) {
-		doRestLogin();
+
+		System.out.println("hi Himanshu");
+		 //doRestLogin();
 	}
 }
